@@ -1,2 +1,2 @@
 # Carousel-and-Cards
-Using bootstrap to build out a carousel and cards
+Using bootstrap to build out a carousel and cards.
